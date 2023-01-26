@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>View Image</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+	</style>
+</head>
+
+<body style="font-family:sans-serif; font-size:3;padding:0; margin:0;background-color:black;">
+
+	<div>
+		<!-- begin page content -->
+
+		<div id="content" style="font-size:3;">
+			<br />
+
+			<center>
+			<img id="main_image" style="width:95%" />
+			</a>
+            
+            <br/>
+            <p id="main_status" style="color: red;">
+                Loading...
+            </p>
+
+			</center>
+			<br />
+
+		</div>
+
+        <script>
+            function getMainImageUrl() {
+                const queryString = window.location.search;
+                const urlParams = new URLSearchParams(queryString);
+                const path = urlParams.get('path');
+                return path;
+            }
+
+            function setupMainImage() {
+                var path = getMainImageUrl();
+                if (path) {
+                    main_image.src = path;
+                    main_status.innerText = "";
+                } else {
+                    main_status.innerText = "No image path";
+                }
+            }
+
+            setupMainImage();
+
+        </script>
+
+</body>
+
+</html>
