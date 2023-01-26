@@ -1,7 +1,8 @@
-console.log("Starting...");
+console.log("Starting now...");
 
 const http = require('http'); // or 'https' for https:// URLs
 const fs = require('fs');
+const execSync = require('child_process').execSync;
 
 function pathToLocalPath(path) {
     return "docs/" + path;
@@ -110,6 +111,87 @@ function cellToHtml(cell) {
     }
     ans += "<br/>";
     return ans;
+}
+
+function isPathAFolder(path) {
+    return fs.lstatSync(path).isDirectory() 
+}
+
+function collectImagesInFolderRecursive(path)
+{
+    var files = fs.readdirSync(path);
+    var result = [];
+    for (var fi in files) {
+        var subPath = files[fi];
+        if (subPath.startsWith(".")) {
+            continue;
+        }
+        var fullPath = path + "/" + subPath;
+        if (isPathAFolder(fullPath)) {
+            //fullPath += "/";
+            var subFiles = collectImagesInFolderRecursive(fullPath);
+            for (var si in subFiles) {
+                result.push(subFiles[si]);
+            }
+        } else {
+            result.push(fullPath);
+        }
+    }
+    return result;
+}
+
+function getImageStatSingle(path, statName)
+{
+    var cmd = 'sips -g ' + statName + ' \"' + path + "\" ";
+    var text = "" + execSync(cmd);
+    var parts = text.trim().split(" ");
+    var last = parts[parts.length-1].trim();
+    if (!isNaN(last)) {
+        last = 1 * last;
+    }
+    return last;
+}
+
+function getImageStats(path)
+{
+    var ans = {
+        width : getImageStatSingle(path, "pixelWidth"),
+        height : getImageStatSingle(path, "pixelHeight"),
+    };
+    if (ans.height > ans.width) {
+        ans.tall = true;
+    }
+    return ans;
+}
+
+function collectJsonFromFiles()
+{
+    console.log("Collecting JSON file...");
+    var images = collectImagesInFolderRecursive("original/Peters art");
+    var result = [];
+    for (var i in images) {
+        var imgPath = images[i];
+
+        var obj = {
+            path : imgPath,
+            by : "peter",
+            tags : [ "painting" ],
+        };
+
+        var addSizes = true;
+        if (addSizes) {
+            var stats = getImageStats(imgPath);
+            obj.size = stats;
+        }
+        result.push(obj);
+    }
+
+    var text = JSON.stringify(result, null, 2);
+    var outFile = "webbuild/all_content.json";
+    fs.writeFileSync(outFile,text);
+    console.log("Wrote file '" + outFile + "'...");
+
+    return result;
 }
 
 function collectCells() {
@@ -249,7 +331,7 @@ function cleanUpString(str) {
     return ans;
 }
 
-function updateCells() {
+function updateIndexPage() {
     var cells = JSON.parse( fs.readFileSync("webbuild/all_content.json") );
     var groups = groupByCallback(cells, (a) => a.category);
     var lines = "";
@@ -304,12 +386,13 @@ function updateCells() {
     var wholeCore = "" + fs.readFileSync(tempPath);
     var replaceMarker = "<!--INSERT_PROFOLIO_HERE-->";
     var wholeFinal = wholeTemplate.replace(replaceMarker, wholeCore);
-    fs.writeFileSync("index.html", wholeFinal);
+    var outFile = "index.html";
+    fs.writeFileSync(outFile, wholeFinal);
+    console.log("Generated '" + outFile + "'.");
 }
 
-//collectCells();
-//categorizeCells();
-updateCells();
+collectJsonFromFiles();
+//updateIndexPage();
 
 
 
