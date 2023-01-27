@@ -95,33 +95,21 @@ function replaceSquares(subtitle) {
 }
 
 function cellToHtml(cell) {
-    if ((!cell.plain_text) && (!cell.href) && (!cell.src)) return "";
 
     var ans = "";
-   // ans += "<pre>" + JSON.stringify(cell) + ":</pre>";
 
-    if (cell.href) {
-        ans += "<a \n href=\"" + cell.href + "\" class='pcell_link'>";
+    if (cell.path) {
+        ans += "<a href=\"view.html?path=" + cell.path + "\" class='pcell_link' >";
     }
-    if (cell.src) {
-        ans += "<img class='pcell_image' \n src=\"" + cell.src + "\" /><br/>";
+
+    if (cell.thumbnail) {
+        ans += "<img src=\"" + cell.thumbnail + "\" class='pcell_image' />";
     }
-    if (cell.title) {
-        ans += "\n " + cell.title + "";
-        //ans += "</b>" + cell.subtitle + "";
-    } else {
-        ans += cell.plain_text;
-    }
-    if (cell.href) {
-        //ans += " <br/>(" + cell.href + ")";
-    }
-    if (cell.href) {
+
+    if (cell.path) {
         ans += "</a>";
     }
-    if (cell.subtitle) {
-        ans += "<br/><span class='pcell_white pcell_subtitle' > " + replaceSquares(cell.subtitle) + "</span>";
-    }
-    ans += "<br/>";
+
     return ans;
 }
 
@@ -453,21 +441,33 @@ function updatePaintingCategories()
 
 function updateIndexPage() {
     var cells = getPaintingsList();
-    var groups = groupByCallback(cells, (a) => a.category);
+    var groups = groupByCallback(cells, (a) => (a.by + "_" + a.category));
     var lines = "";
+    var groupOrder = [];
+    for (var i in groups) {
+        groupOrder.push(i);
+    }
+    groupOrder.reverse();
 
     var subgroup = undefined;
     var groupInfos = {
         "painting":{title:"Paintings",color:"black"},
-        "mural":{title:"Mural",color:"#6898b3"},
-        "door":{title:"Mural Doors",color:"#68b368"}
+        "mural":{title:"Murals",color:"#6898b3"},
+        "door":{title:"Doors",color:"#68b368"}
     }
 
-    for (var groupName in groups)
+    for (var groupIndex in groupOrder)
     {
-        var info = groupInfos[groupName];
+        var groupName = groupOrder[groupIndex];
+        var artist = groupName.split("_")[0];
+        var artType = groupName.split("_")[1];
+        var info = groupInfos[artType];
         lines += "<div style='width:100%;background-color:" + info.color + "' >";
-        lines += "<h2 class='pcell_group_major'>\n" + info.title + "</h2>\n";
+        var title = info.title;
+        if (artist == "pat") {
+            title += " by Patrick Cordingley ";
+        }
+        lines += "<h2 class='pcell_group_major'>\n" + title + "</h2>\n";
         lines += "<div><table><tr>\n";
 
         var cellList = groups[groupName];
@@ -511,8 +511,8 @@ function updateIndexPage() {
 
 //collectJsonFromFiles();
 //generateThumbnailsFromJson();
-updatePaintingCategories();
-//updateIndexPage();
+//updatePaintingCategories();
+updateIndexPage();
 
 
 
