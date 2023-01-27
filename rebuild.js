@@ -417,18 +417,50 @@ function cleanUpString(str) {
     return ans;
 }
 
+function updatePaintingCategories()
+{
+    console.log("Started updatePaintingCategories");
+    var list = getPaintingsList();
+    for (var li in list) {
+        var item = list[li];
+        var path = item.thumbnail;
+        var hasPath = ((part) => {
+            return path.includes(part);
+        });
+
+        if (hasPath("PAT_S_art")) {
+            item.by = "pat";
+        } else {
+            item.by = "pete";
+        }
+
+        if (hasPath("Doors/")
+            || hasPath("_doors")) {
+            item.category = "door";
+        } else if (hasPath("mural") || hasPath("3d2d")) {
+            item.category = "mural";
+        } else {
+            item.category = "painting";
+        }
+
+        var pathParts = path.split("/");
+        item.subgroup = pathParts[pathParts.length-2];
+    }
+    
+    updatePaintingsList(list);
+    console.log("Updated categories.");
+}
+
 function updateIndexPage() {
-    var cells = JSON.parse( fs.readFileSync("webbuild/all_content.json") );
+    var cells = getPaintingsList();
     var groups = groupByCallback(cells, (a) => a.category);
     var lines = "";
 
     var subgroup = undefined;
     var groupInfos = {
-        "team":{title:"Teams",color:"black"},
-        "product":{title:"Products",color:"#6898b3"},
-        "personal":{title:"Self Published",color:"#68b368"},
-        "interest":{title:"Interests",color:"#a19a5c"},
-        "unfinished":{title:"Unfinished",color:"#a19a5c"}
+        "painting":{title:"Paintings",color:"black"},
+        "mural":{title:"Mural",color:"#6898b3"},
+        "door":{title:"Mural Doors",color:"#68b368"}
     }
 
     for (var groupName in groups)
@@ -478,7 +510,8 @@ function updateIndexPage() {
 }
 
 //collectJsonFromFiles();
-generateThumbnailsFromJson();
+//generateThumbnailsFromJson();
+updatePaintingCategories();
 //updateIndexPage();
 
 
