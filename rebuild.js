@@ -454,7 +454,22 @@ function updateIndexPage() {
         "painting":{title:"Paintings",color:"black"},
         "mural":{title:"Murals",color:"#6898b3"},
         "door":{title:"Doors",color:"#68b368"}
-    }
+    };
+    var subgroupRenames = {
+        "Flor_da" : "Florida",
+        "A_pre_96" : "Pre-1996",
+        "Old_art" : "Old Art",
+        "A_pre_96" : "Pre-1996",
+        "3d2d_bass_arcade" : "3D2D Murals",
+        "3d2d_murals" : "3D2D Murals - Smaller",
+        "Painted_Doors" : "Painted Doors",
+        "Murals_doors" : "Murals Doors",
+        "Cape" : "Cape Town",
+        "Cape_two" : "Cape Town (cont.)",
+        "PAT_S_art" : "Misc",
+        "Pat" : "Pat&Pete Photos",
+        "Pndc_oils_2" : "Portaits & Later Works",
+    };
 
     for (var groupIndex in groupOrder)
     {
@@ -479,7 +494,11 @@ function updateIndexPage() {
             if (cell.subgroup != subgroup) {
                 subgroup = cell.subgroup;
                 lines += "\n</tr></table></div>\n";
-                lines += "<h3 style='margin:0px; padding-top:20px; color:white;'><i>" + cleanUpString(subgroup) + "</i></h3>";
+                var subgroupTitle = cleanUpString(subgroup);
+                if (subgroupTitle in subgroupRenames) {
+                    subgroupTitle = subgroupRenames[subgroupTitle];
+                }
+                lines += "<h3 style='margin:0px; padding-top:20px; color:white;'><i>" + subgroupTitle + "</i></h3>";
                 lines += "<div style='overflow-x:scroll;' >";
                 lines += "<table style='width:min-content;' ><tr>\n";
                 //lines += "<tr><td colspan='3'><i>" + subgroup + "</i></td></tr>\n";
