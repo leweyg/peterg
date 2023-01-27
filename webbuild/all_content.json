@@ -1,10 +1,1829 @@
 [
   {
+    "path": "original/PAT'S art/Cape/4 (1).jpg",
+    "size": {
+      "width": 1600,
+      "height": 1200
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/55.jpg",
+    "size": {
+      "width": 1531,
+      "height": 1052
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/56.jpg",
+    "size": {
+      "width": 1494,
+      "height": 984
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/70 (2).jpg",
+    "size": {
+      "width": 1616,
+      "height": 903
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/Graphic mntns.jpeg",
+    "size": {
+      "width": 3024,
+      "height": 3024
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/Pat's Harvesting.jpg",
+    "size": {
+      "width": 1072,
+      "height": 530
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/image1.JPG",
+    "size": {
+      "width": 977,
+      "height": 467
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/image2.JPG",
+    "size": {
+      "width": 1042,
+      "height": 801
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/image3.JPG",
+    "size": {
+      "width": 1277,
+      "height": 1099
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pat cape.JPG",
+    "size": {
+      "width": 1042,
+      "height": 801
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pat muizmbrg.JPG",
+    "size": {
+      "width": 1002,
+      "height": 808
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/patric_cordingley17hr.jpg",
+    "size": {
+      "width": 800,
+      "height": 531
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pats hex rver.jpg",
+    "size": {
+      "width": 2867,
+      "height": 2260
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pndc beach.JPG",
+    "size": {
+      "width": 977,
+      "height": 467
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pndc c twn.JPG",
+    "size": {
+      "width": 513,
+      "height": 341
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pndc county mstpiece.JPG",
+    "size": {
+      "width": 1563,
+      "height": 1027
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pndc farm.JPG",
+    "size": {
+      "width": 962,
+      "height": 703
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pndc shoemkrs.JPG",
+    "size": {
+      "width": 600,
+      "height": 393
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pndc snst.JPG",
+    "size": {
+      "width": 1797,
+      "height": 1159
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/pndc sunset plms.JPG",
+    "size": {
+      "width": 1662,
+      "height": 1266
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/w (4).jpg",
+    "size": {
+      "width": 1676,
+      "height": 872
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/w (5).jpg",
+    "size": {
+      "width": 1578,
+      "height": 740
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (10).jpg",
+    "size": {
+      "width": 1037,
+      "height": 671
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (11).jpg",
+    "size": {
+      "width": 1153,
+      "height": 1680,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (12).jpg",
+    "size": {
+      "width": 1764,
+      "height": 1134
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (13).jpg",
+    "size": {
+      "width": 1214,
+      "height": 872
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (2).jpg",
+    "size": {
+      "width": 1150,
+      "height": 1713,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (3).jpg",
+    "size": {
+      "width": 1601,
+      "height": 1125
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (4).jpg",
+    "size": {
+      "width": 1733,
+      "height": 859
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (5).jpg",
+    "size": {
+      "width": 1464,
+      "height": 1002
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (6).jpg",
+    "size": {
+      "width": 1685,
+      "height": 1167
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (7).jpg",
+    "size": {
+      "width": 1752,
+      "height": 1106
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (8).jpg",
+    "size": {
+      "width": 1766,
+      "height": 1191
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/x (9).jpg",
+    "size": {
+      "width": 1661,
+      "height": 1085
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/y (1).jpg",
+    "size": {
+      "width": 1596,
+      "height": 1144
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/y (2).jpg",
+    "size": {
+      "width": 1713,
+      "height": 1208
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape/y (3).jpg",
+    "size": {
+      "width": 1793,
+      "height": 1137
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/1.jpg",
+    "size": {
+      "width": 1586,
+      "height": 1028
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/11 (4).jpg",
+    "size": {
+      "width": 310,
+      "height": 600,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/11.JPG",
+    "size": {
+      "width": 1000,
+      "height": 786
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/12.jpg",
+    "size": {
+      "width": 1752,
+      "height": 1106
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/13 (3).jpg",
+    "size": {
+      "width": 1018,
+      "height": 752
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/13.jpg",
+    "size": {
+      "width": 1766,
+      "height": 1191
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/14.jpg",
+    "size": {
+      "width": 1703,
+      "height": 900
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/19.jpg",
+    "size": {
+      "width": 1708,
+      "height": 1070
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/2.jpg",
+    "size": {
+      "width": 1704,
+      "height": 1121
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/20.jpg",
+    "size": {
+      "width": 1624,
+      "height": 1050
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/21 Vishoek samewerk.jpg",
+    "size": {
+      "width": 1687,
+      "height": 1114
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/21.jpg",
+    "size": {
+      "width": 1123,
+      "height": 906
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/22.jpg",
+    "size": {
+      "width": 1655,
+      "height": 1090
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/24.jpg",
+    "size": {
+      "width": 1661,
+      "height": 1085
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/26.jpg",
+    "size": {
+      "width": 1685,
+      "height": 843
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/27.jpg",
+    "size": {
+      "width": 1800,
+      "height": 962
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/28.jpg",
+    "size": {
+      "width": 1621,
+      "height": 1060
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/29.jpg",
+    "size": {
+      "width": 1604,
+      "height": 1062
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/3.jpg",
+    "size": {
+      "width": 1635,
+      "height": 1104
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/30.jpg",
+    "size": {
+      "width": 1414,
+      "height": 1045
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/31.jpg",
+    "size": {
+      "width": 1037,
+      "height": 671
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/33.jpg",
+    "size": {
+      "width": 1766,
+      "height": 1228
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/35.jpg",
+    "size": {
+      "width": 1209,
+      "height": 1638,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/36 (1) AutumnHexRivValley.jpg",
+    "size": {
+      "width": 1600,
+      "height": 939
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/36 (3).jpg",
+    "size": {
+      "width": 1800,
+      "height": 1161
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/36.jpg",
+    "size": {
+      "width": 1682,
+      "height": 1116
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/37.jpg",
+    "size": {
+      "width": 1709,
+      "height": 1119
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/38 blurred.jpg",
+    "size": {
+      "width": 1559,
+      "height": 764
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/39.jpg",
+    "size": {
+      "width": 1660,
+      "height": 1142
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/4 (1).jpg",
+    "size": {
+      "width": 1600,
+      "height": 1200
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/4.jpg",
+    "size": {
+      "width": 1129,
+      "height": 599
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/40 (3).jpg",
+    "size": {
+      "width": 600,
+      "height": 444
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/40 (4).jpg",
+    "size": {
+      "width": 600,
+      "height": 444
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/40 (5).jpg",
+    "size": {
+      "width": 600,
+      "height": 444
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/40.jpg",
+    "size": {
+      "width": 1603,
+      "height": 1036
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/41.jpg",
+    "size": {
+      "width": 1771,
+      "height": 1164
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/42.jpg",
+    "size": {
+      "width": 1793,
+      "height": 1215
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/43.jpg",
+    "size": {
+      "width": 1793,
+      "height": 885
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/44.jpg",
+    "size": {
+      "width": 1799,
+      "height": 1154
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/46.jpg",
+    "size": {
+      "width": 1764,
+      "height": 1134
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/48.jpg",
+    "size": {
+      "width": 1607,
+      "height": 1056
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/49.jpg",
+    "size": {
+      "width": 1661,
+      "height": 1131
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/5.jpg",
+    "size": {
+      "width": 1758,
+      "height": 930
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/51.jpg",
+    "size": {
+      "width": 1540,
+      "height": 1071
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/54.jpg",
+    "size": {
+      "width": 1754,
+      "height": 963
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/6.jpg",
+    "size": {
+      "width": 1590,
+      "height": 1081
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/61 (2).jpg",
+    "size": {
+      "width": 1479,
+      "height": 1021
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/61 (3).jpg",
+    "size": {
+      "width": 1563,
+      "height": 1027
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/7.jpg",
+    "size": {
+      "width": 1687,
+      "height": 833
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/70 (1).jpg",
+    "size": {
+      "width": 962,
+      "height": 703
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/72 (2).jpg",
+    "size": {
+      "width": 1586,
+      "height": 1193
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/72 (3).jpg",
+    "size": {
+      "width": 1080,
+      "height": 726
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/for desktp.jpg",
+    "size": {
+      "width": 1591,
+      "height": 917
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/harvest.JPG",
+    "size": {
+      "width": 600,
+      "height": 444
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/i1 (1).jpeg",
+    "size": {
+      "width": 3024,
+      "height": 4032,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/pat blgums.JPG",
+    "size": {
+      "width": 1540,
+      "height": 1071
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/pat lndscap.JPG",
+    "size": {
+      "width": 600,
+      "height": 417
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/pats shoreline.JPG",
+    "size": {
+      "width": 976,
+      "height": 477
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/pc boonz.jpg",
+    "size": {
+      "width": 2349,
+      "height": 1761
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/pc bzr 1.jpg",
+    "size": {
+      "width": 1703,
+      "height": 1123
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/pndc cp mstpce.JPG",
+    "size": {
+      "width": 1826,
+      "height": 1578
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/pndc cpe.JPG",
+    "size": {
+      "width": 2217,
+      "height": 1669
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/pndc light cape.JPG",
+    "size": {
+      "width": 2648,
+      "height": 1606
+    }
+  },
+  {
+    "path": "original/PAT'S art/Cape two/pndc tbl mnt.jpg",
+    "size": {
+      "width": 1813,
+      "height": 1770
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/66 Orange Grove Jhg.jpg",
+    "size": {
+      "width": 1122,
+      "height": 1115
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/69 transvaal.jpg",
+    "size": {
+      "width": 1625,
+      "height": 1047
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/6O  Grove n clb.JPG",
+    "size": {
+      "width": 2094,
+      "height": 1388
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/71 (3).jpg",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/71 (4).jpg",
+    "size": {
+      "width": 1554,
+      "height": 1284
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/75 (2).jpg",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/75 Messina 1972.jpg",
+    "size": {
+      "width": 1261,
+      "height": 778
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/Messina.jpg",
+    "size": {
+      "width": 1110,
+      "height": 1563,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/Pat's Dam Wall.JPG",
+    "size": {
+      "width": 1371,
+      "height": 964
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/Soccer players - Copy.jpg",
+    "size": {
+      "width": 1481,
+      "height": 785
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/i1 (1).jpg",
+    "size": {
+      "width": 3408,
+      "height": 2894
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/i1 (3).jpeg",
+    "size": {
+      "width": 1226,
+      "height": 1705,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/pndc FINAL.JPG",
+    "size": {
+      "width": 1517,
+      "height": 1249
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/pndc candle.JPG",
+    "size": {
+      "width": 1335,
+      "height": 1353,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/pndc cntry cafe.JPG",
+    "size": {
+      "width": 1589,
+      "height": 887
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/pndc forestt.JPG",
+    "size": {
+      "width": 492,
+      "height": 341
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/three messina.JPG",
+    "size": {
+      "width": 1261,
+      "height": 778
+    }
+  },
+  {
+    "path": "original/PAT'S art/Transvaal/x (14).jpg",
+    "size": {
+      "width": 1261,
+      "height": 778
+    }
+  },
+  {
+    "path": "original/PAT'S art/fg (6).jpeg",
+    "size": {
+      "width": 1052,
+      "height": 1757,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/gg (1).jpg",
+    "size": {
+      "width": 1820,
+      "height": 1807
+    }
+  },
+  {
+    "path": "original/PAT'S art/hh (3).jpeg",
+    "size": {
+      "width": 2850,
+      "height": 2191
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/IMG_1888(1).jpg",
+    "size": {
+      "width": 1861,
+      "height": 1114
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/IMG_1888.jpg",
+    "size": {
+      "width": 828,
+      "height": 825
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/Pat Cordingley 2016 (1).jpg",
+    "size": {
+      "width": 761,
+      "height": 696
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/Pat Cordingley 2016 (2).jpg",
+    "size": {
+      "width": 960,
+      "height": 720
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/Pat Cordingley 6 (1).jpg",
+    "size": {
+      "width": 687,
+      "height": 882,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/Pat Cordingley 6 (2).jpg",
+    "size": {
+      "width": 687,
+      "height": 882,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/Pat Cordingley 8.jpg",
+    "size": {
+      "width": 1800,
+      "height": 1206
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/Patrick Cordingley 2005.jpg",
+    "size": {
+      "width": 720,
+      "height": 960,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/image0.jpeg",
+    "size": {
+      "width": 3547,
+      "height": 2694
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/image1.jpeg",
+    "size": {
+      "width": 2891,
+      "height": 2865
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/image2.jpeg",
+    "size": {
+      "width": 3956,
+      "height": 2638
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/image3.jpeg",
+    "size": {
+      "width": 3684,
+      "height": 2362
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/image4.jpeg",
+    "size": {
+      "width": 2200,
+      "height": 2757,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/image5.jpeg",
+    "size": {
+      "width": 3195,
+      "height": 2638
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/image7.jpeg",
+    "size": {
+      "width": 2540,
+      "height": 1786
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/image8.jpeg",
+    "size": {
+      "width": 1616,
+      "height": 2478,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/image9.jpeg",
+    "size": {
+      "width": 2703,
+      "height": 2388
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/me n pat.JPG",
+    "size": {
+      "width": 3264,
+      "height": 2448
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/patpetgabi.JPG",
+    "size": {
+      "width": 2448,
+      "height": 1689
+    }
+  },
+  {
+    "path": "original/PAT'S art/pat/us n pat.JPG",
+    "size": {
+      "width": 2164,
+      "height": 1454
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/1099923_150509161124_Copy_of_DSC03312.JPG",
+    "size": {
+      "width": 500,
+      "height": 327
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/434e7a82c7f785cf36bbd04df25ca0ed--south-african-art-isis.jpg",
+    "size": {
+      "width": 400,
+      "height": 565,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/75.jpg",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/76 (1).jpg",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/76 (2).jpg",
+    "size": {
+      "width": 1295,
+      "height": 1269
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/Asian lady.jpg",
+    "size": {
+      "width": 1173,
+      "height": 2120,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/Pat Portrait circa 1990.jpg",
+    "size": {
+      "width": 232,
+      "height": 296,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/Pat Portrait.jpg",
+    "size": {
+      "width": 232,
+      "height": 296,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/PatCandle2 - Copy.jpg",
+    "size": {
+      "width": 845,
+      "height": 848,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/PatCandle2.jpg",
+    "size": {
+      "width": 3187,
+      "height": 3187
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/copy (9).jpg",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/copy flowers.jpg",
+    "size": {
+      "width": 944,
+      "height": 1146,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/ddrr.jpeg",
+    "size": {
+      "width": 760,
+      "height": 1159,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/i1 (2).jpeg",
+    "size": {
+      "width": 1741,
+      "height": 2451,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/i1 (2).jpg",
+    "size": {
+      "width": 1606,
+      "height": 2154,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/i1 (3).jpg",
+    "size": {
+      "width": 2280,
+      "height": 2872,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/image0(1).jpeg",
+    "size": {
+      "width": 2540,
+      "height": 2982,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/patric_cordingley from Lautrec.jpg",
+    "size": {
+      "width": 175,
+      "height": 248,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/patric_cordingley02.jpg",
+    "size": {
+      "width": 515,
+      "height": 650,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/patric_cordingley15hr.jpg",
+    "size": {
+      "width": 600,
+      "height": 348
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/patric_cordingley38hr.jpg",
+    "size": {
+      "width": 600,
+      "height": 417
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/patric_cordingley40hr.jpg",
+    "size": {
+      "width": 472,
+      "height": 600,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/pats cndle.jpg",
+    "size": {
+      "width": 803,
+      "height": 822,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/pndc madiba.JPG",
+    "size": {
+      "width": 566,
+      "height": 959,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/pndc monet.JPG",
+    "size": {
+      "width": 2628,
+      "height": 1692
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/pndc vn ggh.JPG",
+    "size": {
+      "width": 1691,
+      "height": 2279,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/PAT'S art/pndc oils 2/x (15).jpg",
+    "size": {
+      "width": 1086,
+      "height": 1421,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(1) YellowHill thru door by P Geselowitz.JPG",
+    "size": {
+      "width": 622,
+      "height": 1024,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(10) Sunlit Porch.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(11) Streetscape from Balcony.JPG",
+    "size": {
+      "width": 990,
+      "height": 1967,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(12) Storm Light on Trees.JPG",
+    "size": {
+      "width": 926,
+      "height": 1683,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(13) VanGogh's Cafe.JPG",
+    "size": {
+      "width": 1144,
+      "height": 1979,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(2) ForestStream.JPG",
+    "size": {
+      "width": 1305,
+      "height": 1965,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(3) VanGogh 'Houses at Auvers'.JPG",
+    "size": {
+      "width": 1644,
+      "height": 2117,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(4) HexRiver .JPG",
+    "size": {
+      "width": 868,
+      "height": 964,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(5) GlassDoor to Verandah.JPG",
+    "size": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "path": "original/Painted Doors/(6) Village on a Hill.JPG",
+    "size": {
+      "width": 768,
+      "height": 901,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(7) Harbor from Boat.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(8) Starry Night - VGogh.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/(9) Rockwell Reflections.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/1. Yellow Hill thru Doorway.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/1. YellowHill thru door.JPG",
+    "size": {
+      "width": 685,
+      "height": 760,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/11. Streetscape from Balcony.JPG",
+    "size": {
+      "width": 942,
+      "height": 1653,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/12. Storm Light.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/2. Forest Stream.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/2. ForestStream.JPG",
+    "size": {
+      "width": 653,
+      "height": 718,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/3. VanGogh 'Houses at Auvers'.JPG",
+    "size": {
+      "width": 678,
+      "height": 729,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/4. Hex River - PCord.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/5. Verandah thru glass door.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/516.JPG",
+    "size": {
+      "width": 1024,
+      "height": 768
+    }
+  },
+  {
+    "path": "original/Painted Doors/6. Fishing Village.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/7. Harbor from Boat.JPG",
+    "size": {
+      "width": 688,
+      "height": 831,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/9. Rockwell Reflection solo.JPG",
+    "size": {
+      "width": 887,
+      "height": 1820,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/Card pic (1).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1108
+    }
+  },
+  {
+    "path": "original/Painted Doors/Card pic (2).JPG",
+    "size": {
+      "width": 1790,
+      "height": 1084
+    }
+  },
+  {
+    "path": "original/Painted Doors/Door3 VanGogh 'Auvers'.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/Exhib 1.JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/Exhib 2.JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/Nov 012.jpg",
+    "size": {
+      "width": 823,
+      "height": 1897,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/Oct Artwalk at Skarbos (1).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/Oct Artwalk at Skarbos (10).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/Oct Artwalk at Skarbos (2).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/Oct Artwalk at Skarbos (3).JPG",
+    "size": {
+      "width": 1474,
+      "height": 1533,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/Oct Artwalk at Skarbos (4).JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/Oct Artwalk at Skarbos (5).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/Oct Artwalk at Skarbos (6).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/Oct Artwalk at Skarbos (7).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/P1010001.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/P1010002.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/P1010003.JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/Thumbs.db",
+    "size": {
+      "width": "Doors/Thumbs.db",
+      "height": "Doors/Thumbs.db"
+    }
+  },
+  {
+    "path": "original/Painted Doors/VG's Cafe (1).JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/VG's Cafe (2).JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/VG's Cafe (3).JPG",
+    "size": {
+      "width": 1536,
+      "height": 2048,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/em 3D2D Art Doors (bl) by PGeselowitz.JPG",
+    "size": {
+      "width": 639,
+      "height": 480
+    }
+  },
+  {
+    "path": "original/Painted Doors/em 3D2D Art Doors by PGeselowitz.JPG",
+    "size": {
+      "width": 640,
+      "height": 480
+    }
+  },
+  {
+    "path": "original/Painted Doors/em Forest Stream by PGeselowitz.JPG",
+    "size": {
+      "width": 480,
+      "height": 548,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/em GlassDoor to Verandah.JPG",
+    "size": {
+      "width": 640,
+      "height": 480
+    }
+  },
+  {
+    "path": "original/Painted Doors/em HexRiver Valley .JPG",
+    "size": {
+      "width": 480,
+      "height": 533,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/em Rockwell Reflection by PGeselowitz.JPG",
+    "size": {
+      "width": 473,
+      "height": 640,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/em Slice of VanGogh by PGeselowitz.JPG",
+    "size": {
+      "width": 336,
+      "height": 433,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/em View from Boat.JPG",
+    "size": {
+      "width": 480,
+      "height": 580,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/em Village on a Hill.JPG",
+    "size": {
+      "width": 480,
+      "height": 563,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/em YellowHill thru door by P Geselowitz.JPG",
+    "size": {
+      "width": 395,
+      "height": 640,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/skbos (1).jpg",
+    "size": {
+      "width": 461,
+      "height": 614,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/three doors (1).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/three doors (2).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/three doors (3).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/three doors (4).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/three doors (6).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/three doors (7).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/three doors (9).JPG",
+    "size": {
+      "width": 2048,
+      "height": 1536
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 1. Yellow Hill thru Doorway.JPG",
+    "size": {
+      "width": 499,
+      "height": 1270,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 10. Sunlit Porch.JPG",
+    "size": {
+      "width": 503,
+      "height": 1278,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 11. Streetscape from Balcony.JPG",
+    "size": {
+      "width": 692,
+      "height": 1725,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 12. Storm Light on Trees.JPG",
+    "size": {
+      "width": 581,
+      "height": 1545,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 13. VanGogh's Cafe.JPG",
+    "size": {
+      "width": 744,
+      "height": 1844,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 2. Forest Stream.JPG",
+    "size": {
+      "width": 478,
+      "height": 1246,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 3. VanGogh 'Houses at Auvers'.JPG",
+    "size": {
+      "width": 611,
+      "height": 1595,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 4. HexRiver .JPG",
+    "size": {
+      "width": 281,
+      "height": 737,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 5. Verandah thru glass door.JPG",
+    "size": {
+      "width": 497,
+      "height": 1268,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 6. Fishing Village.JPG",
+    "size": {
+      "width": 494,
+      "height": 1260,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 7. Harbor from Boat.JPG",
+    "size": {
+      "width": 496,
+      "height": 1281,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 8. Starry Night - VGogh.JPG",
+    "size": {
+      "width": 508,
+      "height": 1314,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web 9. Rockwell Reflection.JPG",
+    "size": {
+      "width": 593,
+      "height": 1567,
+      "tall": true
+    }
+  },
+  {
+    "path": "original/Painted Doors/web Oct Artwalk at Skarbos (1).JPG",
+    "size": {
+      "width": 1583,
+      "height": 1070
+    }
+  },
+  {
     "path": "original/Peters art/3d2d bass arcade/a (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -12,10 +1831,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (10).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 672,
       "height": 896,
@@ -24,10 +1839,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (11).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -35,10 +1846,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (12).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1200,
       "height": 599
@@ -46,10 +1853,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (13).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 964,
       "height": 568
@@ -57,10 +1860,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (14).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -68,10 +1867,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (15).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 720,
       "height": 480
@@ -79,10 +1874,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (16).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -90,10 +1881,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (17).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 690,
       "height": 354
@@ -101,10 +1888,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (18).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1907,
       "height": 1280
@@ -112,10 +1895,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (19).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 450,
       "height": 337
@@ -123,10 +1902,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -134,10 +1909,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (20).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 450,
       "height": 337
@@ -145,10 +1916,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (21).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 960,
       "height": 720
@@ -156,10 +1923,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (22).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 722,
       "height": 357
@@ -167,10 +1930,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (23).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -178,10 +1937,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (24).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -189,10 +1944,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (25).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1300,
       "height": 956
@@ -200,10 +1951,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (3).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -211,10 +1958,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (4).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -222,10 +1965,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (5).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1907,
       "height": 1280
@@ -233,10 +1972,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (6).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1136,
       "height": 650
@@ -244,10 +1979,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (7).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 720,
       "height": 480
@@ -255,10 +1986,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (8).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 720,
       "height": 480
@@ -266,10 +1993,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/a (9).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -277,10 +2000,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -288,10 +2007,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (10).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1377,
       "height": 891
@@ -299,10 +2014,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (11).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 960,
       "height": 1280,
@@ -311,10 +2022,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (12).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -322,10 +2029,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (13).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 960,
       "height": 1280,
@@ -334,10 +2037,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (14).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1088,
       "height": 816
@@ -345,10 +2044,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (15).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -356,10 +2051,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (16).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1295,
       "height": 336
@@ -367,10 +2058,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (17).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1279,
       "height": 838
@@ -378,10 +2065,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (18).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1388,
       "height": 902
@@ -389,10 +2072,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (19).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -400,10 +2079,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1600,
       "height": 1200
@@ -411,10 +2086,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (20).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1024,
       "height": 768
@@ -422,10 +2093,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (21).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -433,10 +2100,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (3).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1213,
       "height": 496
@@ -444,10 +2107,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (4).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 771,
       "height": 513
@@ -455,10 +2114,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (5).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1767,
       "height": 1197
@@ -466,10 +2121,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (6).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 923,
       "height": 314
@@ -477,10 +2128,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (7).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1846,
       "height": 628
@@ -488,10 +2135,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (8).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 915,
       "height": 445
@@ -499,10 +2142,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/b (9).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 780,
       "height": 857,
@@ -511,10 +2150,6 @@
   },
   {
     "path": "original/Peters art/3d2d bass arcade/c.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1600,
       "height": 1200
@@ -522,10 +2157,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/1 (2).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1510,
       "height": 1058
@@ -533,10 +2164,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/1 left BEFORE.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 624,
       "height": 476
@@ -544,10 +2171,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/10 wall 2 details (7).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1024,
       "height": 768
@@ -555,10 +2178,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/10 wall 2 details (9).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 600,
       "height": 800,
@@ -567,10 +2186,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/15 back BEFORE.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1082,
       "height": 793
@@ -578,10 +2193,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/16 back complete (1).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1436,
       "height": 960
@@ -589,10 +2200,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/17 B4.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 713,
       "height": 300
@@ -600,10 +2207,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/18 complete.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 685,
       "height": 269
@@ -611,10 +2214,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/19 frnt complete.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 440,
       "height": 467,
@@ -623,10 +2222,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/19 front B4.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 555,
       "height": 565,
@@ -635,10 +2230,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/2 left complete (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 624,
       "height": 476
@@ -646,10 +2237,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/25 (3).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1320,
       "height": 990
@@ -657,10 +2244,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/25 (4).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1447,
       "height": 1102
@@ -668,10 +2251,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/3 (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1376,
       "height": 935
@@ -679,10 +2258,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/3 BEFORE.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -690,10 +2265,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/4 cmplete.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -701,10 +2272,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/4 complete.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -712,10 +2279,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/6 (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1024,
       "height": 768
@@ -723,10 +2286,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/6 (4).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 510,
       "height": 606,
@@ -735,10 +2294,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/Copy of fall13 011.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2048,
       "height": 1077
@@ -746,10 +2301,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/Copy of fall13 013.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2048,
       "height": 1173
@@ -757,10 +2308,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/FL furniture shop.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 770,
       "height": 649
@@ -768,10 +2315,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/P1010018.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2048,
       "height": 1536
@@ -779,10 +2322,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/Vincent wall.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1210,
       "height": 786
@@ -790,10 +2329,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/aa lhills (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -801,10 +2336,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/aa lhills (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -812,10 +2343,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/aa lhills (3).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 640,
       "height": 480
@@ -823,10 +2350,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/alley (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1841,
       "height": 1505
@@ -834,10 +2357,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/alley (8).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1640,
       "height": 1033
@@ -845,10 +2364,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/alley (9).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1434,
       "height": 1076
@@ -856,10 +2371,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/aq bck stoep.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1229,
       "height": 922
@@ -867,10 +2378,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/b side 1 complete (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 720,
       "height": 480
@@ -878,10 +2385,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/b side 1 complete (7).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 720,
       "height": 480
@@ -889,10 +2392,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/back (6).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1426,
       "height": 843
@@ -900,10 +2399,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/back skydv (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 720,
       "height": 480
@@ -911,10 +2406,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/back skydv (2).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1006,
       "height": 616
@@ -922,10 +2413,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/bck (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1434,
       "height": 1076
@@ -933,10 +2420,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/bck (5).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1386,
       "height": 779
@@ -944,10 +2427,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/bck (6).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1007,
       "height": 1065,
@@ -956,10 +2435,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/bck (7).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2030,
       "height": 633
@@ -967,10 +2442,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/bthrm round wall.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 763,
       "height": 543
@@ -978,10 +2449,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/btrm round.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1050,
       "height": 660
@@ -989,10 +2456,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/d paintg (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1551,
       "height": 840
@@ -1000,10 +2463,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/d paintg (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1004,
       "height": 754
@@ -1011,10 +2470,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/d paintg (3).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1234,
       "height": 803
@@ -1022,10 +2477,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/drop shop (1).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1207,
       "height": 879
@@ -1033,10 +2484,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/drop shop (2).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -1044,10 +2491,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/fence.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1434,
       "height": 1076
@@ -1055,10 +2498,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/front skydv (1).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 555,
       "height": 565,
@@ -1067,10 +2506,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/front skydv (2).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 440,
       "height": 467,
@@ -1079,10 +2514,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/g back complete(3).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 595,
       "height": 892,
@@ -1091,10 +2522,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/me and fence.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1930,
       "height": 765
@@ -1102,10 +2529,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/me fence.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1973,
       "height": 1298
@@ -1113,10 +2536,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/me fnce (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1130,
       "height": 576
@@ -1124,10 +2543,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/mid schl.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1274,
       "height": 813
@@ -1135,10 +2550,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/pet store.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 896,
       "height": 596
@@ -1146,10 +2557,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/pet stre.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1203,
       "height": 836
@@ -1157,10 +2564,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/pet.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 600,
       "height": 600
@@ -1168,10 +2571,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/pmurl (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2048,
       "height": 1536
@@ -1179,10 +2578,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/pmurl (3).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1144,
       "height": 709
@@ -1190,10 +2585,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/sideskydve (1).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 713,
       "height": 300
@@ -1201,10 +2592,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/sideskydve (2).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 751,
       "height": 423
@@ -1212,10 +2599,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/sideskydve (3).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 720,
       "height": 480
@@ -1223,10 +2606,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/skydve shop (1).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1449,
       "height": 1054
@@ -1234,10 +2613,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/skydve shop (2) - Copy.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1608,
       "height": 1057
@@ -1245,10 +2620,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/skydve shop (2).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -1256,10 +2627,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/tukwila 1.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -1267,10 +2634,6 @@
   },
   {
     "path": "original/Peters art/3d2d murals/tukwila 5.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1955,
       "height": 944
@@ -1278,10 +2641,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/29.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1509,
       "height": 1041
@@ -1289,10 +2648,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/31.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 720,
       "height": 895,
@@ -1301,10 +2656,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/36.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 960
@@ -1312,10 +2663,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/Fl sunset.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1773,
       "height": 1773
@@ -1323,10 +2670,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/Flo'rda.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1179,
       "height": 870
@@ -1334,10 +2677,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/IMG_5946.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1180,
       "height": 1600,
@@ -1346,10 +2685,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/Indian River Fl.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1662,
       "height": 1893,
@@ -1358,10 +2693,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/J & N's ships.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1259,
       "height": 969
@@ -1369,10 +2700,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/Scan0067.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1032,
       "height": 871
@@ -1380,10 +2707,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/Scan0068.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1035,
       "height": 883
@@ -1391,10 +2714,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/b (2).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3416,
       "height": 2826
@@ -1402,10 +2721,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/b (4).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2526,
       "height": 2380
@@ -1413,10 +2728,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/b (6).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3164,
       "height": 2633
@@ -1424,10 +2735,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/beach weddng.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1024,
       "height": 815
@@ -1435,10 +2742,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/beach wg.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1272,
       "height": 817
@@ -1446,10 +2749,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/fl lvel oak.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1520,
       "height": 1946,
@@ -1458,10 +2757,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/i river.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1247,
       "height": 1415,
@@ -1470,10 +2765,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/ind riv.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1180,
       "height": 1600,
@@ -1482,10 +2773,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/indian r boats.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1769,
       "height": 1777,
@@ -1494,10 +2781,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/me.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1170,
       "height": 972
@@ -1505,10 +2788,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/red green trles.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1630,
       "height": 2477,
@@ -1517,10 +2796,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/seb inlet.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2538,
       "height": 1239
@@ -1528,10 +2803,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/sebstn family.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1600,
       "height": 1200
@@ -1539,10 +2810,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/turtle ki.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 962,
       "height": 1004,
@@ -1551,10 +2818,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/turtle laying.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1813,
       "height": 1510
@@ -1562,10 +2825,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/turtles.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2782,
       "height": 1224
@@ -1573,10 +2832,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/tutle babies.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2321,
       "height": 1409
@@ -1584,10 +2839,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/vc (5).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2730,
       "height": 2274
@@ -1595,10 +2846,6 @@
   },
   {
     "path": "original/Peters art/Flor'da/venice.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 910,
       "height": 1163,
@@ -1607,10 +2854,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/2.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 525,
       "height": 762,
@@ -1619,10 +2862,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/QP (3).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3598,
       "height": 2382
@@ -1630,10 +2869,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/Salt rock jtty.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2096,
       "height": 2201,
@@ -1642,10 +2877,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/Self portrait (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 975,
       "height": 716
@@ -1653,10 +2884,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/alley dance.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1255,
       "height": 903
@@ -1664,10 +2891,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/b (3).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2407,
       "height": 2126
@@ -1675,10 +2898,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/baby lewey.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3264,
       "height": 2448
@@ -1686,10 +2905,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/cape by pete.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1840,
       "height": 1762
@@ -1697,10 +2912,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/cape tcabl.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2010,
       "height": 2223,
@@ -1709,10 +2920,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/car dance.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2130,
       "height": 1477
@@ -1720,10 +2927,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/country clss.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1851,
       "height": 1827
@@ -1731,10 +2934,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/croc river.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2161,
       "height": 1456
@@ -1742,10 +2941,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/dr b.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3000,
       "height": 3000
@@ -1753,10 +2948,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/dugout btswna - Copy.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 618,
       "height": 467
@@ -1764,10 +2955,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/dugout btswna.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 618,
       "height": 467
@@ -1775,10 +2962,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/dwn up awy.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1761,
       "height": 1786,
@@ -1787,10 +2970,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/forest am.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1985,
       "height": 1920
@@ -1798,10 +2977,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/heads.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2639,
       "height": 1850
@@ -1809,10 +2984,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/hippos.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 716,
       "height": 892,
@@ -1821,10 +2992,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/jhb city.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1829,
       "height": 1708
@@ -1832,10 +2999,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/jhb sky.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1814,
       "height": 1739
@@ -1843,10 +3006,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/lew ki steph.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1175,
       "height": 1097
@@ -1854,10 +3013,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/nugget hl.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1573,
       "height": 1529
@@ -1865,10 +3020,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/pat ha unca.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 921,
       "height": 507
@@ -1876,10 +3027,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/pauls leop.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 697,
       "height": 662
@@ -1887,10 +3034,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/pink hali.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2172,
       "height": 1720
@@ -1898,10 +3041,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/political oil.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2218,
       "height": 1417
@@ -1909,10 +3048,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/self port.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3024,
       "height": 3024
@@ -1920,10 +3055,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/stone path.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2133,
       "height": 2263,
@@ -1932,10 +3063,6 @@
   },
   {
     "path": "original/Peters art/a pre 96/undrgrnd.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1309,
       "height": 1635,
@@ -1944,10 +3071,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 1.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 699,
       "height": 812,
@@ -1956,10 +3079,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 10.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 430,
       "height": 1064,
@@ -1968,10 +3087,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 11.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 477,
       "height": 1069,
@@ -1980,10 +3095,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 3.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 484,
       "height": 1115,
@@ -1992,10 +3103,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 5.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 486,
       "height": 1093,
@@ -2004,10 +3111,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 6.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 456,
       "height": 1209,
@@ -2016,10 +3119,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 7 (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 464,
       "height": 1065,
@@ -2028,10 +3127,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 7.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 461,
       "height": 1128,
@@ -2040,10 +3135,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 8.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 485,
       "height": 1116,
@@ -2052,10 +3143,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Doors 9.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 432,
       "height": 1103,
@@ -2064,10 +3151,6 @@
   },
   {
     "path": "original/Peters art/murals doors/P1010001.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1536,
       "height": 2048,
@@ -2076,10 +3159,6 @@
   },
   {
     "path": "original/Peters art/murals doors/P1010002.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1536,
       "height": 2048,
@@ -2088,10 +3167,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Squiff fuzzy.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 374,
       "height": 1014,
@@ -2100,10 +3175,6 @@
   },
   {
     "path": "original/Peters art/murals doors/Thumbs.db",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": "doors/Thumbs.db",
       "height": "doors/Thumbs.db"
@@ -2111,10 +3182,6 @@
   },
   {
     "path": "original/Peters art/murals doors/a exhibit 1.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2048,
       "height": 1536
@@ -2122,10 +3189,6 @@
   },
   {
     "path": "original/Peters art/murals doors/a exhibit 2.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2048,
       "height": 1536
@@ -2133,10 +3196,6 @@
   },
   {
     "path": "original/Peters art/murals doors/a exhibit 3 - Copy.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1189,
       "height": 970
@@ -2144,10 +3203,6 @@
   },
   {
     "path": "original/Peters art/murals doors/a exhibit 3.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2048,
       "height": 1536
@@ -2155,10 +3210,6 @@
   },
   {
     "path": "original/Peters art/murals doors/a exhibit 4.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2048,
       "height": 1536
@@ -2166,10 +3217,6 @@
   },
   {
     "path": "original/Peters art/murals doors/a exhibits 1 (2).JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 814,
       "height": 1175,
@@ -2178,10 +3225,6 @@
   },
   {
     "path": "original/Peters art/murals doors/cat door.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1019,
       "height": 1973,
@@ -2190,10 +3233,6 @@
   },
   {
     "path": "original/Peters art/murals doors/forst stream.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1497,
       "height": 2100,
@@ -2202,10 +3241,6 @@
   },
   {
     "path": "original/Peters art/murals doors/frigr v gh.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 561,
       "height": 790,
@@ -2214,10 +3249,6 @@
   },
   {
     "path": "original/Peters art/murals doors/italy dr.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 582,
       "height": 573
@@ -2225,10 +3256,6 @@
   },
   {
     "path": "original/Peters art/murals doors/italy.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 996,
       "height": 2231,
@@ -2237,10 +3264,6 @@
   },
   {
     "path": "original/Peters art/murals doors/my pats boats.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1773,
       "height": 1773
@@ -2248,10 +3271,6 @@
   },
   {
     "path": "original/Peters art/murals doors/my pats dr.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1512,
       "height": 2016,
@@ -2260,10 +3279,6 @@
   },
   {
     "path": "original/Peters art/murals doors/my van gogh.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 690,
       "height": 1852,
@@ -2272,10 +3287,6 @@
   },
   {
     "path": "original/Peters art/murals doors/paris door.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1773,
       "height": 1773
@@ -2283,10 +3294,6 @@
   },
   {
     "path": "original/Peters art/murals doors/pndc ct door.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3264,
       "height": 2448
@@ -2294,10 +3301,6 @@
   },
   {
     "path": "original/Peters art/murals doors/rockwll door.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1708,
       "height": 3254,
@@ -2306,10 +3309,6 @@
   },
   {
     "path": "original/Peters art/murals doors/vn gh door.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 372,
       "height": 1024,
@@ -2318,10 +3317,6 @@
   },
   {
     "path": "original/Peters art/murals doors/wlkvlle door.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2016,
       "height": 1512
@@ -2329,10 +3324,6 @@
   },
   {
     "path": "original/Peters art/old art/a (1).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 901,
       "height": 2700,
@@ -2341,10 +3332,6 @@
   },
   {
     "path": "original/Peters art/old art/a (11).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1555,
       "height": 2525,
@@ -2353,10 +3340,6 @@
   },
   {
     "path": "original/Peters art/old art/a (2).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1084,
       "height": 2954,
@@ -2365,10 +3348,6 @@
   },
   {
     "path": "original/Peters art/old art/a (3).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1681,
       "height": 2447,
@@ -2377,10 +3356,6 @@
   },
   {
     "path": "original/Peters art/old art/a (4).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 760,
       "height": 1681,
@@ -2389,10 +3364,6 @@
   },
   {
     "path": "original/Peters art/old art/a equals a.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 828,
       "height": 470
@@ -2400,10 +3371,6 @@
   },
   {
     "path": "original/Peters art/old art/bw hali.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1363,
       "height": 2089,
@@ -2412,10 +3379,6 @@
   },
   {
     "path": "original/Peters art/old art/classics prtrt.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1226,
       "height": 1512,
@@ -2424,10 +3387,6 @@
   },
   {
     "path": "original/Peters art/old art/early son.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 695,
       "height": 560
@@ -2435,10 +3394,6 @@
   },
   {
     "path": "original/Peters art/old art/frogg.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 717,
       "height": 600
@@ -2446,10 +3401,6 @@
   },
   {
     "path": "original/Peters art/old art/hmodel 1.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1410,
       "height": 2334,
@@ -2458,10 +3409,6 @@
   },
   {
     "path": "original/Peters art/old art/hmodel 2.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 315,
       "height": 893,
@@ -2470,10 +3417,6 @@
   },
   {
     "path": "original/Peters art/old art/image0(1).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1318,
       "height": 1882,
@@ -2482,10 +3425,6 @@
   },
   {
     "path": "original/Peters art/old art/jhb restrant.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1682,
       "height": 2455,
@@ -2494,10 +3433,6 @@
   },
   {
     "path": "original/Peters art/old art/meercat.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 351,
       "height": 768,
@@ -2506,10 +3441,6 @@
   },
   {
     "path": "original/Peters art/old art/pointer dg.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 597,
       "height": 673,
@@ -2518,10 +3449,6 @@
   },
   {
     "path": "original/Peters art/old art/pop pencil port.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1339,
       "height": 1978,
@@ -2530,10 +3457,6 @@
   },
   {
     "path": "original/Peters art/old art/python ink.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1397,
       "height": 895
@@ -2541,10 +3464,6 @@
   },
   {
     "path": "original/Peters art/old art/silly dog.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 631,
       "height": 692,
@@ -2553,10 +3472,6 @@
   },
   {
     "path": "original/Peters art/old art/sun emoji.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 603,
       "height": 623,
@@ -2565,10 +3480,6 @@
   },
   {
     "path": "original/Peters art/old art/sure im list.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 589,
       "height": 796,
@@ -2577,10 +3488,6 @@
   },
   {
     "path": "original/Peters art/paintings/IMG_3163.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2516,
       "height": 2919,
@@ -2589,10 +3496,6 @@
   },
   {
     "path": "original/Peters art/paintings/a (11).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2653,
       "height": 1736
@@ -2600,10 +3503,6 @@
   },
   {
     "path": "original/Peters art/paintings/a (12).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2340,
       "height": 1916
@@ -2611,10 +3510,6 @@
   },
   {
     "path": "original/Peters art/paintings/image10.jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2375,
       "height": 2807,
@@ -2623,10 +3518,6 @@
   },
   {
     "path": "original/Peters art/paintings/tv (1).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2719,
       "height": 1917
@@ -2634,10 +3525,6 @@
   },
   {
     "path": "original/Peters art/paintings/tv (2).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2900,
       "height": 2156
@@ -2645,10 +3532,6 @@
   },
   {
     "path": "original/Peters art/paintings/tv (3).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3166,
       "height": 2221
@@ -2656,10 +3539,6 @@
   },
   {
     "path": "original/Peters art/paintings/tv (4).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3438,
       "height": 1271
@@ -2667,10 +3546,6 @@
   },
   {
     "path": "original/Peters art/paintings/tv (5).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2653,
       "height": 1736
@@ -2678,10 +3553,6 @@
   },
   {
     "path": "original/Peters art/paintings/zx (4).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3567,
       "height": 2499
@@ -2689,10 +3560,6 @@
   },
   {
     "path": "original/Peters art/washington/Horse carr.jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2349,
       "height": 1881
@@ -2700,10 +3567,6 @@
   },
   {
     "path": "original/Peters art/washington/IMG_0991.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3678,
       "height": 2420
@@ -2711,10 +3574,6 @@
   },
   {
     "path": "original/Peters art/washington/Ki's bday prsnt.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 671,
       "height": 788,
@@ -2723,10 +3582,6 @@
   },
   {
     "path": "original/Peters art/washington/QP (1).JPEG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1280,
       "height": 982
@@ -2734,10 +3589,6 @@
   },
   {
     "path": "original/Peters art/washington/QP (1).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3792,
       "height": 1664
@@ -2745,10 +3596,6 @@
   },
   {
     "path": "original/Peters art/washington/QP (2).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2359,
       "height": 1096
@@ -2756,10 +3603,6 @@
   },
   {
     "path": "original/Peters art/washington/RIKA.jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1558,
       "height": 1894,
@@ -2768,10 +3611,6 @@
   },
   {
     "path": "original/Peters art/washington/Sara & Jeff.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 858,
       "height": 1023,
@@ -2780,10 +3619,6 @@
   },
   {
     "path": "original/Peters art/washington/Seattle dck.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2038,
       "height": 1559
@@ -2791,10 +3626,6 @@
   },
   {
     "path": "original/Peters art/washington/alki family.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2596,
       "height": 1024
@@ -2802,10 +3633,6 @@
   },
   {
     "path": "original/Peters art/washington/ally dnce.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1853,
       "height": 898
@@ -2813,10 +3640,6 @@
   },
   {
     "path": "original/Peters art/washington/b (1).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2375,
       "height": 2807,
@@ -2825,10 +3648,6 @@
   },
   {
     "path": "original/Peters art/washington/b (1).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1493,
       "height": 1585,
@@ -2837,10 +3656,6 @@
   },
   {
     "path": "original/Peters art/washington/b (2).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3407,
       "height": 1888
@@ -2848,10 +3663,6 @@
   },
   {
     "path": "original/Peters art/washington/b (3).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2066,
       "height": 2721,
@@ -2860,10 +3671,6 @@
   },
   {
     "path": "original/Peters art/washington/b (5).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3360,
       "height": 2981
@@ -2871,10 +3678,6 @@
   },
   {
     "path": "original/Peters art/washington/b (7).jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1474,
       "height": 1422
@@ -2882,10 +3685,6 @@
   },
   {
     "path": "original/Peters art/washington/barry farmer.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1349,
       "height": 1710,
@@ -2894,10 +3693,6 @@
   },
   {
     "path": "original/Peters art/washington/bw Lew Suz.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 581,
       "height": 623,
@@ -2906,10 +3701,6 @@
   },
   {
     "path": "original/Peters art/washington/commnty grden.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 751,
       "height": 537
@@ -2917,10 +3708,6 @@
   },
   {
     "path": "original/Peters art/washington/dr berez.jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3075,
       "height": 2661
@@ -2928,10 +3715,6 @@
   },
   {
     "path": "original/Peters art/washington/hali bench.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1472,
       "height": 1447
@@ -2939,10 +3722,6 @@
   },
   {
     "path": "original/Peters art/washington/image0.jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2493,
       "height": 2084
@@ -2950,10 +3729,6 @@
   },
   {
     "path": "original/Peters art/washington/ki museum.jpg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1261,
       "height": 1477,
@@ -2962,10 +3737,6 @@
   },
   {
     "path": "original/Peters art/washington/kira eur.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2016,
       "height": 1512
@@ -2973,10 +3744,6 @@
   },
   {
     "path": "original/Peters art/washington/lew catoff.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2435,
       "height": 1915
@@ -2984,10 +3751,6 @@
   },
   {
     "path": "original/Peters art/washington/lew suz ind.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1810,
       "height": 1931,
@@ -2996,10 +3759,6 @@
   },
   {
     "path": "original/Peters art/washington/lewey thin wht dk.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1197,
       "height": 838
@@ -3007,10 +3766,6 @@
   },
   {
     "path": "original/Peters art/washington/lewey two frnds india.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3262,
       "height": 2576
@@ -3018,10 +3773,6 @@
   },
   {
     "path": "original/Peters art/washington/moms etc.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2448,
       "height": 2448
@@ -3029,10 +3780,6 @@
   },
   {
     "path": "original/Peters art/washington/moms harvey.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1802,
       "height": 1382
@@ -3040,10 +3787,6 @@
   },
   {
     "path": "original/Peters art/washington/my ki da.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3264,
       "height": 2448
@@ -3051,10 +3794,6 @@
   },
   {
     "path": "original/Peters art/washington/our view.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1595,
       "height": 1971,
@@ -3063,10 +3802,6 @@
   },
   {
     "path": "original/Peters art/washington/pats wall - Copy.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1202,
       "height": 735
@@ -3074,10 +3809,6 @@
   },
   {
     "path": "original/Peters art/washington/pats wall.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2016,
       "height": 1512
@@ -3085,10 +3816,6 @@
   },
   {
     "path": "original/Peters art/washington/seattl copy.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2360,
       "height": 1216
@@ -3096,10 +3823,6 @@
   },
   {
     "path": "original/Peters art/washington/suzie.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1765,
       "height": 2368,
@@ -3108,10 +3831,6 @@
   },
   {
     "path": "original/Peters art/washington/toy seattle.JPG",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 1864,
       "height": 903
@@ -3119,10 +3838,6 @@
   },
   {
     "path": "original/Peters art/washington/vc (1).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2093,
       "height": 2519,
@@ -3131,10 +3846,6 @@
   },
   {
     "path": "original/Peters art/washington/vc (2).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2952,
       "height": 2663
@@ -3142,10 +3853,6 @@
   },
   {
     "path": "original/Peters art/washington/vc (3).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2747,
       "height": 1265
@@ -3153,10 +3860,6 @@
   },
   {
     "path": "original/Peters art/washington/vc (4).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3792,
       "height": 1664
@@ -3164,10 +3867,6 @@
   },
   {
     "path": "original/Peters art/washington/zx (1).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2435,
       "height": 2888,
@@ -3176,10 +3875,6 @@
   },
   {
     "path": "original/Peters art/washington/zx (2).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 2688,
       "height": 2688
@@ -3187,10 +3882,6 @@
   },
   {
     "path": "original/Peters art/washington/zx (3).jpeg",
-    "by": "peter",
-    "tags": [
-      "painting"
-    ],
     "size": {
       "width": 3481,
       "height": 2641

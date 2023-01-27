@@ -167,15 +167,13 @@ function getImageStats(path)
 function collectJsonFromFiles()
 {
     console.log("Collecting JSON file...");
-    var images = collectImagesInFolderRecursive("original/Peters art");
+    var images = collectImagesInFolderRecursive("original");
     var result = [];
     for (var i in images) {
         var imgPath = images[i];
 
         var obj = {
             path : imgPath,
-            by : "peter",
-            tags : [ "painting" ],
         };
 
         var addSizes = true;
@@ -186,10 +184,15 @@ function collectJsonFromFiles()
         result.push(obj);
     }
 
-    var text = JSON.stringify(result, null, 2);
-    var outFile = "webbuild/all_content.json";
-    fs.writeFileSync(outFile,text);
-    console.log("Wrote file '" + outFile + "'...");
+    console.log("Got " + result.length + " items.");
+
+    var writeOutJson = true;
+    if (writeOutJson) {
+        var text = JSON.stringify(result, null, 2);
+        var outFile = "webbuild/all_content.json";
+        fs.writeFileSync(outFile,text);
+        console.log("Wrote file '" + outFile + "'...");
+    }
 
     return result;
 }
