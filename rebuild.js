@@ -195,6 +195,13 @@ function getPaintingsList() {
     return cleaned;
 }
 
+function updatePaintingsList(paintingsList) {
+    var text = JSON.stringify(paintingsList, null, 2);
+    var outFile = "webbuild/all_content.json";
+    fs.writeFileSync(outFile,text);
+    console.log("Wrote file '" + outFile + "'...");
+}
+
 function thumbnailPathFor(orig_path) {
     var path = orig_path;
     var prevPath = "";
@@ -237,6 +244,7 @@ function generateThumbnailsFromJson()
             }
         }
     }
+    updatePaintingsList(list);
 }
 
 function collectJsonFromFiles()
