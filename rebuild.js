@@ -12,6 +12,18 @@ function fileReadWhole(path) {
     return fs.readFileSync(pathToLocalPath(path));
 }
 
+function fileExists(path) {
+    return fs.existsSync(path);
+}
+
+function folderFromPath(path) {
+    var end = path.lastIndexOf("/");
+    if (end >= 0) {
+        return path.substr(0,end+1);
+    }
+    return "";
+}
+
 function splitHTML( text) {
     var parts = [];
     var elementDepth = 0;
@@ -162,6 +174,69 @@ function getImageStats(path)
         ans.tall = true;
     }
     return ans;
+}
+
+function cleanPaintingsList(objList) {
+    var ans = [];
+    for (var i in objList) {
+        var item = objList[i];
+        if (item.path.includes("Thumbs.db")) {
+            continue;
+        }
+        ans.push( item );
+    }
+    return ans;
+}
+
+function getPaintingsList() {
+    const txt = fs.readFileSync("webbuild/all_content.json");
+    const obj = JSON.parse(txt);
+    var cleaned = cleanPaintingsList(obj);
+    return cleaned;
+}
+
+function thumbnailPathFor(orig_path) {
+    var path = orig_path;
+    var prevPath = "";
+    var maxCount = 10;
+    while (path != prevPath) {
+        prevPath = path;
+        maxCount--;
+        if (maxCount <= 0) {
+            throw "Error in thumbnailPathFor";
+        }
+        path = path
+            .replace("original/","smaller/")
+            .replace("'","_")
+            .replace(")","")
+            .replace("(","")
+            .replace(" ","_");
+    }
+    return path;
+}
+
+function generateThumbnailsFromJson()
+{
+    var list = getPaintingsList();
+    for (var li in list) {
+        var item = list[li];
+        if (!item.path) continue; // error
+        if (item.thumbnail) continue; // already exists
+        item.thumbnail = thumbnailPathFor(item.path);
+        if (!fileExists(item.thumbnail)) {
+            var folderPath = folderFromPath(item.thumbnail);
+            var mkdir = "mkdir -p \"" + folderPath + "\" ";
+            execSync(mkdir);
+            var cmd = "sips -Z 200 ";
+            cmd += " \"" + item.path + "\" ";
+            cmd += " --out \"" + item.thumbnail + "\" ";
+            console.log(cmd);
+            execSync(cmd);
+            if (!fileExists(item.thumbnail)) {
+                throw "Error creating " + item.thumbnail;
+            }
+        }
+    }
 }
 
 function collectJsonFromFiles()
@@ -394,7 +469,8 @@ function updateIndexPage() {
     console.log("Generated '" + outFile + "'.");
 }
 
-collectJsonFromFiles();
+//collectJsonFromFiles();
+generateThumbnailsFromJson();
 //updateIndexPage();
 
 
