@@ -411,6 +411,7 @@ function updatePaintingCategories()
     var list = getPaintingsList();
     for (var li in list) {
         var item = list[li];
+        item.index = 1 * li;
         var path = item.thumbnail;
         var hasPath = ((part) => {
             return path.includes(part);
@@ -530,8 +531,8 @@ function updateIndexPage() {
 
 //collectJsonFromFiles();
 //generateThumbnailsFromJson();
-//updatePaintingCategories();
-updateIndexPage();
+updatePaintingCategories();
+//updateIndexPage();
 
 
 
