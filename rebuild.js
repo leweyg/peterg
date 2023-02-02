@@ -110,6 +110,12 @@ function cellToHtml(cell) {
         ans += "</a>";
     }
 
+    var addIndex = false;
+    if (addIndex) {
+        ans += "<br/><font color='white'>";
+        ans += "#" + cell.index + "</font>";
+    }
+
     return ans;
 }
 
@@ -447,6 +453,8 @@ function updateIndexPage() {
     var groupOrder = [];
     for (var i in groups) {
         groupOrder.push(i);
+        var list = groups[i];
+        //list.sort((a,b) => (a.subgroup.compareTo(b.subgroup)));
     }
     groupOrder.reverse();
 
@@ -454,7 +462,7 @@ function updateIndexPage() {
     var groupInfos = {
         "painting":{title:"Paintings",color:"black"},
         "mural":{title:"Murals",color:"#6898b3"},
-        "door":{title:"Doors",color:"#68b368"}
+        "door":{title:"Doors",color:"#68b368"},
     };
     var subgroupRenames = {
         "Flor_da" : "Florida",
@@ -468,7 +476,7 @@ function updateIndexPage() {
         "Cape" : "Cape Town",
         "Cape_two" : "Cape Town (cont.)",
         "PAT_S_art" : "Misc",
-        "Pat" : "Pat&Pete Photos",
+        "Pat" : "Photos of Pat&Pete",
         "Pndc_oils_2" : "Portaits & Later Works",
     };
 
@@ -481,9 +489,15 @@ function updateIndexPage() {
         lines += "<div style='width:100%;background-color:" + info.color + "' >";
         var title = info.title;
         if (artist == "pat") {
+            lines += "<span id='patrick_cordingley' /></span>\n";
             title += " by Patrick Cordingley ";
         }
         lines += "<h2 class='pcell_group_major'>\n" + title + "</h2>\n";
+        if (artist == "pat") {
+            lines += "<center><a href='view.html?path=misc/patrick_self_portrait.jpg'>"
+            + "<img src='misc/patrick_self_portrait.jpg' style='width:80%; max-width: 232px;' />"
+            + "</a></center>";
+        }
         lines += "<div><table><tr>\n";
 
         var cellList = groups[groupName];
@@ -531,8 +545,8 @@ function updateIndexPage() {
 
 //collectJsonFromFiles();
 //generateThumbnailsFromJson();
-updatePaintingCategories();
-//updateIndexPage();
+//updatePaintingCategories();
+updateIndexPage();
 
 
 
