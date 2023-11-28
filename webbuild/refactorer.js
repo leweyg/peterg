@@ -9,7 +9,7 @@ function pathToLocalPath(path) {
 }
 
 function pathToRemotePath(path) {
-    return "http://www.lewcid.com/" + path;
+    return "http://lewcid.com/" + path;
 }
 
 function folderFromPath(path) {
